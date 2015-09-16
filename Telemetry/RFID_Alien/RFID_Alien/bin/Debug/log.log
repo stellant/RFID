@@ -1,0 +1,37 @@
+Data will be written to C:\Users\TH303898\Documents   at 20150915223816237Tz530
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at RFID_Alien.Form1.setDetails() in D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\Form1.cs:line 311
+   at RFID_Alien.Form1.listBox_Devices_SelectedIndexChanged(Object sender, EventArgs e) in D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\Form1.cs:line 278
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at RFID_Alien.Form1.setDetails() in D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\Form1.cs:line 311
+   at RFID_Alien.Form1.listBox_Devices_SelectedIndexChanged(Object sender, EventArgs e) in D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\Form1.cs:line 278
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at RFID_Alien.Form1.setDetails() in D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\Form1.cs:line 311
+   at RFID_Alien.Form1.listBox_Devices_SelectedIndexChanged(Object sender, EventArgs e) in D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\Form1.cs:line 278
+
+Data will be written to C:\Users\TH303898\Documents   at 20150916004634311Tz530
+
+Data will be written to C:\Users\TH303898\Documents   at 20150916005901191Tz530
+
+Data will be written to C:\Users\TH303898\Documents   at 20150916010232126Tz530
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at RFID_Alien.Form1.setDetails() in D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\Form1.cs:line 327
+   at RFID_Alien.Form1.listBox_Devices_SelectedIndexChanged(Object sender, EventArgs e) in D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\Form1.cs:line 294
+
+Data will be written to C:\Users\TH303898\Documents   at 20150916010438280Tz530
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at RFID_Alien.Form1.setDetails() in D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\Form1.cs:line 327
+   at RFID_Alien.Form1.listBox_Devices_SelectedIndexChanged(Object sender, EventArgs e) in D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\Form1.cs:line 294
+Data will be written to C:\Users\TH303898\Documents   at 20150916010648843Tz530
+
+Data will be written to C:\Users\TH303898\Documents   at 20150916013653360Tz530
+
+Data will be written to C:\Users\TH303898\Documents   at 20150916013719323Tz530
+
+Date Time Monitor Started...   at 20150916013720904Tz530
+
